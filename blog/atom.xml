@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://cppdocs.github.io/blog</id>
+    <title>CppDocs Blog</title>
+    <updated>2021-08-26T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://cppdocs.github.io/blog"/>
+    <subtitle>CppDocs Blog</subtitle>
+    <icon>https://cppdocs.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Welcome]]></title>
+        <id>welcome</id>
+        <link href="https://cppdocs.github.io/blog/welcome"/>
+        <updated>2021-08-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This is the first blog post.]]></summary>
+        <content type="html"><![CDATA[<p>This is the first blog post.</p>]]></content>
+        <category label="hello" term="hello"/>
+    </entry>
+</feed>
